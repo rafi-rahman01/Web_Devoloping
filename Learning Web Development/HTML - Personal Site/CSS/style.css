@@ -1,0 +1,27 @@
+/**************TAG SELECTORS***********/
+
+body {
+    background-color: #daf6f4;
+}
+hr {
+    color: rgb(15, 0, 89);
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 5%;
+}
+h1 {
+    color: rgb(2, 14, 150);
+}
+h3 {
+    color: rgb(2, 14, 150);
+}
+a:hover {
+    color: rgb(117, 94, 1);
+}
+/**************CLASS SELECTORS***********/
+.Name {
+    text-align: center;
+}
+.em_name {
+    color: #880505;
+}
